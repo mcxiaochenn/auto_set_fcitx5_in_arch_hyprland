@@ -1,8 +1,9 @@
 # auto_set_fcitx5_in_arch_hyprland
 
-## 简介
+> 这是一个为 Arch Linux 用户设计的自动化脚本，旨在简化 Fcitx5 输入法框架、雾凇拼音以及大模型联想词的配置过程。本脚本将自动执行大部分配置步骤，包括环境变量设置、Hyprland 自动启动配置、雾凇拼音的安装与优化，以及大模型联想词的集成。
 
-这是一个为 Arch Linux 用户设计的自动化脚本，旨在简化 Fcitx5 输入法框架、雾凇拼音以及大模型联想词的配置过程。本脚本将自动执行大部分配置步骤，包括环境变量设置、Hyprland 自动启动配置、雾凇拼音的安装与优化，以及大模型联想词的集成。
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]((../../LICENSE))
 
 ## 功能特性
 
