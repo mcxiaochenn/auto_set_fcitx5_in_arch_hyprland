@@ -62,3 +62,16 @@
 ## 参考文献
 
 - [Arch Linux 下 Fcitx5 雾凇拼音和大模型联想词一件套](https://linux.do/t/topic/537067)
+
+
+## 📜 许可证
+本项目采用 MIT 许可证（[完整条款]((LICENSE))）：
+- 允许商用、私用、修改、分发
+- 允许专利使用、再授权
+- 无责任条款
+
+只需保留 版权声明 和 许可证文件，即可自由使用。
+
+
+## ⭐Star
+[![Stars](https://starchart.cc/mcxiaochenn/auto_set_fcitx5_in_arch_hyprland.svg?variant=adaptive)](https://github.com/mcxiaochenn/auto_set_fcitx5_in_arch_hyprland)
